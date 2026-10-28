@@ -1,3 +1,5 @@
+<img width="2048" height="2048" alt="logoclean" src="https://github.com/user-attachments/assets/a4e8eda6-d85a-4577-baeb-1435a7d18fa7" />
+
 # Observer
 
 Ingests press-freedom sources into one normalised database (SQLite or PostgreSQL) and serves a
