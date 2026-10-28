@@ -11,7 +11,7 @@ IMPORT_DIR.mkdir(exist_ok=True)
 DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{DATA_DIR / 'incidents.db'}")
 
 USER_AGENT = os.getenv(
-    "PFM_USER_AGENT", "PressFreedomMonitor/1.0"
+    "PFM_USER_AGENT", "Observer/1.0"
 )
 
 FEEDS_FILE = BASE_DIR / "feeds.txt"
