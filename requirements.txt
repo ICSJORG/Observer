@@ -1,0 +1,9 @@
+feedparser>=6.0
+requests>=2.31
+pandas>=2.0
+sqlalchemy>=2.0
+pycountry>=23.12
+streamlit>=1.50
+streamlit-folium>=0.20
+folium>=0.16
+plotly>=5.20
