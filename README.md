@@ -1,4 +1,4 @@
-<img width="2048" height="2048" alt="logoclean" src="https://github.com/user-attachments/assets/a4e8eda6-d85a-4577-baeb-1435a7d18fa7" />
+<img width="2048" height="2048" alt="logo" src="https://github.com/user-attachments/assets/87ce064a-7a92-42e4-8baf-82aa911c41c9" />
 
 # Observer
 
