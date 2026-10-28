@@ -10,7 +10,7 @@ searchable, filterable Streamlit dashboard: trends, a killed-journalists analysi
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-python ingest_all.py            # feeds.txt (CPJ + RSF) and every file in data/imports/
+python ingest_all.py
 streamlit run app.py
 ```
 PostgreSQL: `pip install psycopg2-binary`, then `export DATABASE_URL="postgresql+psycopg2://user:pass@host/db"`.
