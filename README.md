@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="banner" src="https://github.com/user-attachments/assets/ee6e5506-4de3-4721-af85-179ba7d1ce68" />
+<img width="1376" height="768" alt="banner" src="https://github.com/user-attachments/assets/ee6e5506-4de3-4721-af85-179ba7d1ce68" />
 
 
 # Observer
